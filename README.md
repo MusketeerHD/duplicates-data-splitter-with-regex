@@ -34,9 +34,12 @@ git clone https://github.com/MusketeerHD/duplicates-data-splitter-with-regex.git
 ## Change dataset
 Default datasets ini adalah `Detail_Change.csv`, Jika ingin merubah datasets :
 * Pindahkan dataset yang anda inginkan kedalam direktori tempat anda mengkloning repositori ini
-* ubah semua file name ```sh
+* ubah semua file name 
+```sh
 ... = "Detail_Change.csv";
-``` yang berada di file dalam src menjadi file name yang anda inginkan ```sh
+``` 
+yang berada di file dalam src menjadi file name yang anda inginkan 
+```sh
 ... = "yourData.csv":
 ```
 * Jalankan kembali program java
