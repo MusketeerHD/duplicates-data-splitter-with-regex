@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to duplicates-data-splitter-with-regex 👋</h1>
+<h1 align="center">Welcome to duplicates data splitter 👋</h1>
 <p>
   <a href="https://github.com/MusketeerHD/duplicates-data-splitter-with-regex/README.md" target="_blank">
     <img alt="Documentation" src="https://img.shields.io/badge/documentation-yes-brightgreen.svg" />
