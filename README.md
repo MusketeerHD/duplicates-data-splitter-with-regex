@@ -11,11 +11,20 @@
   </a>
 </p>
 
-> Ini adalah program Java sederhana yang menghitung jumlah data CI Name yang tidak terduplikasi dari sebuah file teks yang dihasilkan dengan menggunakan bahasa java. Program ini dibuat dengan menggunakan IntelliJ IDEA, sebuah Integrated Development Environment (IDE) yang sangat populer di kalangan pengembang Java.
+> Ini adalah simple java program yang menghitung jumlah data CI Name yang tidak terduplikasi dari sebuah file teks yang dihasilkan dengan menggunakan bahasa java. Program ini dibuat dengan menggunakan IntelliJ IDEA, sebuah Integrated Development Environment (IDE) yang sangat populer di kalangan pengembang Java.
 
 ### 🏠 [Homepage](https://github.com/MusketeerHD/duplicates-data-splitter-with-regex)
 
 ### ✨ [Demo](https://github.com/MusketeerHD/duplicates-data-splitter-with-regex/README.md)
+
+## Technology
+* Java
+* IntelliJ IDEA
+* Java JDk
+
+## How to test
+* Clone repository ini ke mesin lokal Anda:
+```shgit clone https://github.com/MusketeerHD/duplicates-data-splitter-with-regex.git```
 
 ## Author
 
