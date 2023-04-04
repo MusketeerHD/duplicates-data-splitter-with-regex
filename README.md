@@ -40,7 +40,7 @@ Default datasets ini adalah `Detail_Change.csv`, Jika ingin merubah datasets :
 ``` 
 yang berada di file dalam src menjadi file name yang anda inginkan 
 ```sh
-... = "yourData.csv":
+... = "yourData.csv";
 ```
 * Jalankan kembali program java
 
