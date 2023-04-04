@@ -38,7 +38,7 @@ Default datasets ini adalah `Detail_Change.csv`, Jika ingin merubah datasets :
 ```sh
 ... = "Detail_Change.csv";
 ``` 
-yang berada di file dalam src menjadi file name yang anda inginkan 
+yang berada di dalam file src menjadi file name yang anda inginkan 
 ```sh
 ... = "yourData.csv";
 ```
