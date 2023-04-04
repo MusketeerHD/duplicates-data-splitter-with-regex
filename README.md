@@ -24,7 +24,9 @@
 
 ## How to test
 * Clone repository ini ke mesin lokal Anda:
-```shgit clone https://github.com/MusketeerHD/duplicates-data-splitter-with-regex.git```
+```sh
+git clone https://github.com/MusketeerHD/duplicates-data-splitter-with-regex.git
+```
 
 ## Author
 
