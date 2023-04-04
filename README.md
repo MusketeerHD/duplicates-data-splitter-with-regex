@@ -18,9 +18,9 @@
 ### ✨ [Demo](https://github.com/MusketeerHD/duplicates-data-splitter-with-regex/README.md)
 
 ## Technology
-* Java
-* IntelliJ IDEA
-* Java JDk
+* [Java](https://www.java.com)
+* [IntelliJ IDEA](https://www.jetbrains.com/idea/)
+* [Java JDk](https://www.oracle.com/id/java/technologies/downloads/)
 
 ## How to test
 * Clone repository ini ke mesin lokal Anda:
