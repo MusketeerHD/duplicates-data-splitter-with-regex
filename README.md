@@ -27,6 +27,15 @@
 ```sh
 git clone https://github.com/MusketeerHD/duplicates-data-splitter-with-regex.git
 ```
+* Buka IntelliJ IDEA dan pilih "Open" dari menu "File". Navigasikan ke direktori tempat Anda telah mengkloning repositori ini dan pilih folder
+* Jalankan program dengan mengeklik tombol "Run" di toolbar atau dengan menggunakan shortcut keyboard `Shift + F10`
+* Program akan menampilkan jumlah data CI Name yang tidak terduplikasi pada konsol
+
+## Change dataset
+Default datasets ini adalah `Detail_Change.csv`, Jika ingin merubah datasets :
+* Pindahkan dataset yang anda inginkan kedalam direktori tempat anda mengkloning repositori ini
+* ubah semua file name ``... = "Detail_Change.csv";`` yang berada di file dalam src menjadi file name yang anda inginkan ``... = "yourData.csv":``
+* Jalankan kembali program java
 
 ## Author
 
