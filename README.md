@@ -33,7 +33,6 @@ Give a ⭐️ if this project helped you!
 ## 📝 License
 
 Copyright © 2023 [Musketeer](https://github.com/MusketeerHD).<br />
-This project is [MIT](https://github.com/MusketeerHD/duplicates-data-splitter-with-regex/blob/main/LICENSE) licensed.
+Program ini dilisensikan di bawah [MIT](https://github.com/MusketeerHD/duplicates-data-splitter-with-regex/blob/main/LICENSE)
 
 ***
-_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
