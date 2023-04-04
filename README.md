@@ -11,8 +11,7 @@
   </a>
 </p>
 
-> Ini adalah program Java sederhana yang menghitung jumlah data CI Name yang tidak terduplikasi dari sebuah file teks yang dihasilkan dengan menggunakan bahasa java<
-> Program ini dibuat dengan menggunakan IntelliJ IDEA, sebuah Integrated Development Environment (IDE) yang sangat populer di kalangan pengembang Java.
+> Ini adalah program Java sederhana yang menghitung jumlah data CI Name yang tidak terduplikasi dari sebuah file teks yang dihasilkan dengan menggunakan bahasa java. Program ini dibuat dengan menggunakan IntelliJ IDEA, sebuah Integrated Development Environment (IDE) yang sangat populer di kalangan pengembang Java.
 
 ### 🏠 [Homepage](https://github.com/MusketeerHD/duplicates-data-splitter-with-regex)
 
